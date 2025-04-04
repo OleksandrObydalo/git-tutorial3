@@ -12,6 +12,7 @@ func main() {
 	// to see how GoLand suggests fixing the warning.</p><p>Alternatively, if available, click the lightbulb to view possible fixes.</p>
 	s := "gopher"
 	fmt.Println("Hello and welcome in VERSION 1, %s!", s)
+	fmt.Println("Hello and welcome in VERSION 2, %s!", s)
 
 	for i := 1; i <= 5; i++ {
 		//TIP <p>To start your debugging session, right-click your code in the editor and select the Debug option.</p> <p>We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
